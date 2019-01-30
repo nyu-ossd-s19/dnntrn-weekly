@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+# More Information
 
 ## Technical Background
 
@@ -18,11 +18,11 @@ Also, I have used various product management tools like Slack, Trello, Asana, an
 
 ## Passions Outside of School
 
-# Art, Art, Art!
+### Art, Art, Art!
 
 I love art in its various forms- from classical paintings to the newest music video.
 
-# Film
+### Film
 
 I watch an obscene amount of independent films during the winter and Spring breaks, and if I had unlimited resources,
 I would watch a movie every week at the IFC.
