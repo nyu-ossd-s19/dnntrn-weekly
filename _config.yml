@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Deanna
 
 # CUSTOMIZE
-# Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2019
+# Short bio or description about you (displayed in the header)
+description: Undergraduate student studying Computer Science with minors in Web Design and Linguistics. I love meeting new people, art, and food. My dream would be to someday work in an engineering or management role in an entertainment-based company.
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -26,7 +26,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: nyu-ossd-s19
+  github: dnntrn
   instagram:
   linkedin:
   pinterest:
@@ -36,19 +36,19 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # CUSTOMIZE
-# Your website URL (e.g. https://nyu-ossd-s18.github.io/weekly )
+# Your website URL (e.g. https://nyu-ossd-s18.github.io/dnntrn-weekly )
 # Replace the last part by the name of your own repository. 
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://nyu-ossd-s18.github.io/weekly"
+url: "https://nyu-ossd-s18.github.io/dnntrn-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/dnntrn-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
