@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Undergraduate student studying Computer Science with minors in Web Design and Linguistics. Love to Code; passionate about Art, Film, and Food. Seeking engineering and product management roles in the entertainment/media industry. 
 
 # More Information
 
