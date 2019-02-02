@@ -53,6 +53,7 @@ h1 {
 
 .site-info h1{
   font-size: 2em;
+  margin-bottom: 3%;
 }
 
 .site-description{
@@ -61,7 +62,7 @@ h1 {
 }
 
 header img{
-  width: 30%;
+  width: 120%;
   height: auto;
 
 }
@@ -313,7 +314,7 @@ table {
     border: 1px solid #eee;
     padding: 10px;
   }
-} 
+}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
