@@ -20,6 +20,7 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+|  7   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Stuytown    |
 |  4   | <https://github.com/nyu-ossd-s19/project_evaluation/commit/19f47160d33697a5a6ad195642c2780d1c2b9fb3>   | Project Evaluation    |   Project Eval for FreeCodeCamp.    |
 |  4   | <https://github.com/nyu-ossd-s19/Maya_Deanna-workflow/commits/master>   | Workflow Activity    |   Various commits towards workflow activity project.    |
 |  3   | <https://github.com/nyu-ossd-s19/notepad-team-3/pull/10>   | Notepad-team03    |   Pull request: background color change option.    |
