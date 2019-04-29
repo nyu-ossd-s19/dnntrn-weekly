@@ -20,6 +20,7 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+|  11   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Keri Hilson    |
 |  10   | <https://github.com/nyu-ossd-s19/julieces-weekly/issues/5>   | julieces-weekly    |   Submit issue for table formatting    |
 |  10   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Remy Ma    |
 |  9   | <https://github.com/nyu-ossd-s19/jwanggggg-weekly/pull/2>   | jwanggggg Blob    |   Submit pull request for issue    |
