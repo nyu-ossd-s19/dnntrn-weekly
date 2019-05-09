@@ -20,6 +20,8 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+|  13   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Billy Porter    |
+|  13   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Camp(style)    |
 |  12   | <https://github.com/freeCodeCamp/freeCodeCamp/pull/35496>   | freeCodeCamp    |   Communicate with freeCodeCamp over merged PR    |
 |  11   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Keri Hilson    |
 |  10   | <https://github.com/nyu-ossd-s19/julieces-weekly/issues/5>   | julieces-weekly    |   Submit issue for table formatting    |
