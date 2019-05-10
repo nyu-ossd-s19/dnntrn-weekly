@@ -20,6 +20,8 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+|  13   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Buzzfeed Unsolved    |
+|  13   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Charlamagne tha God    |
 |  13   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Billy Porter    |
 |  13   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Camp(style)    |
 |  12   | <https://github.com/freeCodeCamp/freeCodeCamp/pull/35496>   | freeCodeCamp    |   Communicate with freeCodeCamp over merged PR    |
