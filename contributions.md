@@ -20,6 +20,7 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
+|  13   | <https://github.com/nyu-ossd-s19/anthonykyi-weekly/pull/10>   | anthonykyi-weekly    |   Submit PR for grammar errors    |
 |  13   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Buzzfeed Unsolved    |
 |  13   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Charlamagne tha God    |
 |  13   | <https://en.wikipedia.org/wiki/Special:Contributions/Dnntrn>   | Wikipedia    |   Update Wikipedia page for Billy Porter    |
